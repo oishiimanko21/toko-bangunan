@@ -8,6 +8,7 @@ import About from './components/About';
 import DescAbout from './components/DescAbout';
 import VMSAbout from './components/VMSAbout';
 import ContactUs from './components/ContactUs';
+import pageCategory from './Pages/pageCategory';
 import "./style/landingPage.css";
 
 function App() {

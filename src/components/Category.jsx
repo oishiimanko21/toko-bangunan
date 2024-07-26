@@ -1,8 +1,6 @@
-import react from 'react';
-import { Row, Col, Container} from "react-bootstrap";
 import "../style/Category.css";
 
-const Login = () => {
+const Category = () => {
     const categories = [
         { name: "Alat dan Bahan Bangunan", description: "Berbagai macam alat dan bahan bangunan berkualitas." },
         { name: "Alat Listrik", description: "Peralatan listrik untuk kebutuhan rumah dan industri." }
